@@ -1,6 +1,8 @@
 ## AudioAnnotatr
 
-Browser-based audio waveform viewer and timestamp annotator. Load any audio file, scrub the waveform, drop annotations at precise moments, and export/import clean JSON. Everything runs fully in your browser — no sign‑in, no uploads.
+Browser-based audio waveform viewer and timestamp annotator. Load any audio file, scrub the waveform, drop annotations at precise moments, and export/import clean JSON. Everything runs fully in your browser — no sign‑in, no uploads
+
+Try it here: https://andjar.github.io/AudioAnnotatr/
 
 ![AudioAnnotatr screenshot](screenshot.png)
 
